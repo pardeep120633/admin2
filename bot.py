@@ -48,4 +48,4 @@ async def f(ctx,*,msg):
 				
 				await ctx.send(embed=embed)
         
-bot.run("NzQwOTQ4MDc1NDU0OTIyNzc1.Xywbqw.PsGksRGUS9lYH2zNPTHfuGGxILU")  # Where 'TOKEN' is 
+bot.run("NzQwOTQ4MDc1NDU0OTIyNzc1.Xywbqw.qmb9xpBi0WnhKANPKcAmjEETw9w")  # Where 'TOKEN' is 
